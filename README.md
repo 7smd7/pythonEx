@@ -1,6 +1,6 @@
 # Python OOP exercise
-    Advertiser and Ad classes inherit from BaseAdvertising.
-    main class is for test them.
+Advertiser and Ad classes inherit from BaseAdvertising.
+main class is for test them.
 
 # Output
 
